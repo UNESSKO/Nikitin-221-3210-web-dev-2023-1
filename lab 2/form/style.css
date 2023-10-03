@@ -1,0 +1,35 @@
+label {
+    font-weight: bold;
+}
+
+legend {
+    font-weight: bold;
+}
+
+.container {
+    width: 25%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.lb {
+    font-weight: lighter;
+}
+
+.label {
+    display: block;
+    font-weight: bold;
+}
+
+.apply-btn {
+    background-color: #0885c6;
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 0.625rem 1.25rem;
+}
